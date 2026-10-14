@@ -137,8 +137,6 @@ docker-compose.yml     容器编排 + 数据卷
 - Self-learning loop that tunes pre-load ratio, parallel threshold, operator flexibility, etc., from historical records.
 - Single-port deploy (port `3001`), Node.js 22 + built-in `node:sqlite`, Docker-ready, no native dependencies.
 
-See `docs/` for the project proposal, technical report, demo script, application case study, and IP statement (Simplified Chinese).
-
 ## License
 
 [MIT](./LICENSE) — see the `LICENSE` file for the full text.
